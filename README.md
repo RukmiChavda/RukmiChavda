@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RukmiChavda
-- 👀 I’m interested in Physcial Design, ASIC design, PCB design 
+- 👀 I’m interested in Physical Design, ASIC design, PCB design 
 - 🌱 I’m currently learning ASIC Design
 - 📫 reach me with chavdarukmi07@gmail.com
 
